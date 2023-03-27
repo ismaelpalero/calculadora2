@@ -5,8 +5,7 @@
  */
 package javaapplication1;
 
-/**
- *
+/*esto av no otes
  * @author Ismael
  */
 public class JavaApplication1 {
