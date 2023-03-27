@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-
+/*Este es el primer paso
 /**
  *
- * @author redes
+ *  @author redes 
  */
 public class Calculadora {
     private int num1;
