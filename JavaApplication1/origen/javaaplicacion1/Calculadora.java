@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-/*Este es el primer paso
+/*Este es el primer pasoeses
+/* esto si que no me lo esperaba
 /**
  *
  *  @author redes 
